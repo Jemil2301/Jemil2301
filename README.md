@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jemil</h1>
 <h3 align="center">Computer Engineer<br/> 
- Trainee @ Tatvasoft
+ Trainee @ Tatvasoft<br/>
  Android Application Developer And Flutter Beginner.</h3>
 
 <!--
