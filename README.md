@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jemil</h1>
 <h3 align="center">Computer Engineer<br/> 
  TSE @ Tatvasoft<br/>
- Android Application Developer And Flutter Beginner.
+ Android Application Developer And Flutter Beginner.<br/>
 .net Devloper</h3>
 
 <!--
