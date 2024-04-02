@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jemil</h1>
 <h3 align="center">Computer Engineer<br/> 
  SE @ Tatvasoft<br/>
- Android Application Developer And Flutter Beginner.<br/>
-.net Devloper</h3>
+ .net Developer<br/>
+Android Application Developer And Flutter Beginner.</h3>
 
 <!--
 **Jemil2301/Jemil2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
